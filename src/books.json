@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Władca Pierścieni",
+    "author": "J.R.R. Tolkien",
+    "price": 49.99,
+    "description": "Epicka powieść fantasy.",
+    "image": "/images/wladca-pierscieni.jpg",
+    "stock": 10,
+    "category": ["Fantasy", "Epicka", "Przygodowe"]
+  },
+  {
+    "id": 2,
+    "title": "Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 39.99,
+    "description": "Przygoda Bilbo Bagginsa.",
+    "image": "/images/hobbit.jpg",
+    "stock": 15,
+    "category": ["Fantasy", "Przygodowe"]
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter i Kamień Filozoficzny",
+    "author": "J.K. Rowling",
+    "price": 39.99,
+    "description": "Początek przygody młodego czarodzieja.",
+    "image": "/images/harry-potter-1.jpg",
+    "stock": 20,
+    "category": ["Fantasy", "Dla młodzieży", "Przygodowe"]
+  },
+  {
+    "id": 4,
+    "title": "Gra o Tron",
+    "author": "George R.R. Martin",
+    "price": 45.99,
+    "description": "Pierwszy tom sagi Pieśń Lodu i Ognia.",
+    "image": "/images/gra-o-tron.jpg",
+    "stock": 12,
+    "category": ["Fantasy", "Epicka", "Polityczna"]
+  },
+  {
+    "id": 5,
+    "title": "Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "price": 29.99,
+    "description": "Klasyczne opowieści o słynnym detektywie.",
+    "image": "/images/sherlock-holmes.jpg",
+    "stock": 18,
+    "category": ["Kryminał", "Klasyka", "Detektywistyczna"]
+  },
+  {
+    "id": 6,
+    "title": "Zbrodnia i kara",
+    "author": "Fiodor Dostojewski",
+    "price": 34.99,
+    "description": "Psychologiczna powieść o moralności i winie.",
+    "image": "/images/zbrodnia-i-kara.jpg",
+    "stock": 14,
+    "category": ["Klasyka", "Literatura piękna", "Psychologiczna"]
+  },
+  {
+    "id": 7,
+    "title": "Duma i uprzedzenie",
+    "author": "Jane Austen",
+    "price": 32.99,
+    "description": "Klasyczna powieść romantyczna.",
+    "image": "/images/duma-i-uprzedzenie.jpg",
+    "stock": 16,
+    "category": ["Romans", "Klasyka", "Obyczajowa"]
+  },
+  {
+    "id": 8,
+    "title": "Rok 1984",
+    "author": "George Orwell",
+    "price": 31.99,
+    "description": "Wizja dystopijnej przyszłości.",
+    "image": "/images/rok-1984.jpg",
+    "stock": 19,
+    "category": ["Science-fiction", "Dystopia", "Polityczna"]
+  },
+  {
+    "id": 9,
+    "title": "Solaris",
+    "author": "Stanisław Lem",
+    "price": 28.99,
+    "description": "Klasyczna polska powieść science fiction.",
+    "image": "/images/solaris.jpg",
+    "stock": 13,
+    "category": ["Science-fiction", "Filozoficzna"]
+  },
+  {
+    "id": 10,
+    "title": "Mały Książę",
+    "author": "Antoine de Saint-Exupéry",
+    "price": 27.99,
+    "description": "Filozoficzna opowieść o dziecięcej wyobraźni.",
+    "image": "/images/maly-ksiaze.jpg",
+    "stock": 21,
+    "category": ["Filozoficzna", "Dla dzieci", "Klasyka"]
+  }
+]
